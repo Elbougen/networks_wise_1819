@@ -1,0 +1,8 @@
+Aufgabe2 Gruppe 2
+
+Aufgabe 2.1
+a) GET /sd/topics/linux_64.png
+b) ja er dekomprimiert die gesendeten Daten wieder
+c) persistent: keep-alive command
+d) Erlaubt dem Server bei unverändertem Inhalt den Statuscode 304 Not Modified zurück zu geben
+e)
